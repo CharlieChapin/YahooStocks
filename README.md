@@ -1,12 +1,12 @@
 # YahooStocks
 
 You will need the following libraries installed for this to work:
-  *datetime
-  *yfinance
-  *mplfinance
-  *pandas
-  *xlsxwriter
-  *openpyxl
+  -datetime
+  -yfinance
+  -mplfinance
+  -pandas
+  -xlsxwriter
+  -openpyxl
   
 Download data from Yahoo Finance using the yfinance library and create an excel workbook from the data.
 
