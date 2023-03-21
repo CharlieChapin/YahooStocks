@@ -12,7 +12,7 @@ worksheet = workbook.add_worksheet()
 while True:
     try:
         n = int(input('How Many stocks do you want to browse?: '))
-        while n > 10:
+        while n > 10: #limiting to 10 stocks for program speed, this can be edited to any limit you want
             print('Thats too many stocks. You can search up to 10.')
             n = int(input('How Many stocks do you want to browse?: '))
     except ValueError:
