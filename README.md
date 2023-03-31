@@ -1,6 +1,6 @@
 # YahooStocks
 Guide to install python and python libraries:  
-https://medium.com/@carlosat/python-start-programming-today-an-introductory-guide-d1c750729dc2
+http://tiny.cc/getpython
 
 You will need Python and the following libraries installed for this to work:
   * datetime
