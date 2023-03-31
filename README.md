@@ -1,6 +1,8 @@
 # YahooStocks
+Guide to install python and python libraries:
+https://medium.com/@carlosat/python-start-programming-today-an-introductory-guide-d1c750729dc2
 
-You will need the following libraries installed for this to work:
+You will need Python and the following libraries installed for this to work:
   * datetime
   * yfinance
   * mplfinance
